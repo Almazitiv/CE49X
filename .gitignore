@@ -18,3 +18,7 @@ Week*/load_displacement_curve.png
 
 # Executed notebooks
 *_Executed.ipynb
+*_executed.ipynb
+
+# Manim render cache (keep final outputs only)
+**/media/videos/**/partial_movie_files/
